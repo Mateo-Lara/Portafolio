@@ -1,0 +1,49 @@
+{
+    "Navegacion":{
+        "Inicio": "HOME",
+        "Sobre mi": "ABOUT ME",
+        "Habilidades": "SKILLS",
+        "Curriculum": "RESUME",
+        "Portafolio":"PORTFOLIO"
+    },
+    "Inicio":{
+        "Inicio":"Home",
+        "Profesion": "Junior software developer"
+    },
+    "Sobre mi":{
+        "Sobre":"About me",
+        "Descripcion":"<span>I am Mateo Lara.</span> Software development tech, I consider myself a person who adapts to any situation easily, I can also be a good leader, looking for challenges to improve as a professional. I feel that to any company I arrive I will be able to give new and fresh ideas."
+    },
+    "Datos personales":{
+        "Info": "Personal information",
+        "Fecha cumpleaños":"<strong>Birthday</strong> 02-26-2004",
+        "Telefono": "Telephone",
+        "Lugar":"Place",
+        "Cargo": "<strong>Charge</strong> <span>Junior developer</span>"        
+    },
+    "Intereses":{
+        "interes":"Interests",
+        "Juegos":"<i class='fa-solid fa-gamepad'></i> GAMES",
+        "Libros":"<i class='fa-solid fa-book'></i> BOOKS",
+        "Viajar":"<i class='fa-solid fa-plane'></i> TRAVEL",
+        "Paginas":"<i class='fa-brands fa-html5'></i> WEB PAGES"
+    },
+    "CV":{
+        "Descargar":"Download CV"
+    },
+    "Habilidades":{
+        "Habilidad": "Skills",
+        "Habilidad Tech":"Technical skills",
+        "Habilidad pro":"Profesional skills"
+    },
+    "Curriculum":{
+        "Curriculum":"resume",
+        "Educacion":"Education",
+        "Experiencia":"Work expirience"
+    },
+    "Experiencia 1":{
+        "Titulo":"Technical Assistance to Public Finance Management",
+        "Tiempo": "6 months",
+        "Descripcion":"I was an intern at the Medellin Government, in the help of the application 'Visor 360', where I helped as a bug tester and organized the NAS, I also became an administrator of the application and helped users with their problems"
+    }
+}

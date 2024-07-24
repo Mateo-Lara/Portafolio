@@ -1,0 +1,49 @@
+{
+    "Navegacion":{
+        "Inicio": "INICIO",
+        "Sobre mi": "SOBRE MI",
+        "Habilidades": "HABILIDADES",
+        "Curriculum": "CURRICULUM",
+        "Portafolio":"PORTFOLIO"
+    },
+    "Inicio":{
+        "Inicio":"Inicio",
+        "Profesion": "Ingenierio de software junior"
+    },
+    "Sobre mi":{
+        "Sobre":"Sobre mi",
+        "Descripcion":"<span>Soy Mateo Lara.</span> Tecnólogo en desarrollo de software, me considero una persona que se adapta a cualquier situación fácilmente, también puedo ser un buen líder, buscando retos en los cuales mejorar como profesional y siento que a cualquier empresa que llegue voy a poder dar ideas nuevas y frescas"
+    },
+    "Datos personales":{
+        "Info": "Datos personales",
+        "Fecha cumpleaños":"<strong>Cumpleaños</strong> 26-02-2004",
+        "Telefono": "Teléfono",
+        "Lugar":"Lugar",
+        "Cargo": "<strong>Cargo</strong> <span>Desarrollador Junior</span>"        
+    },
+    "Intereses":{
+        "interes":"Intereses",
+        "Juegos":"<i class='fa-solid fa-gamepad'></i> JUEGOS",
+        "Libros":"<i class='fa-solid fa-book'></i> LIBROS",
+        "Viajar":"<i class='fa-solid fa-plane'></i> VIAJAR",
+        "Paginas":"<i class='fa-brands fa-html5'></i> WEB"
+    },
+    "CV":{
+        "Descargar":"Descargar CV"
+    },
+    "Habilidades":{
+        "Habilidad": "Habilidades",
+        "Habilidad Tech":"Habilidades técnicas",
+        "Habilidad pro":"Habilidades profesionales"
+    },
+    "Curriculum":{
+        "Curriculum":"Curriculum",
+        "Educacion":"Educación",
+        "Experiencia":"Experiencia de trabajo"
+    },
+    "Experiencia 1":{
+        "Titulo":"Asistencia Técnica a la Gestión de Hacienda Pública",
+        "Tiempo": "6 meses",
+        "Descripcion":"Fui practicante de la Alcaldía de Medellín, en la ayuda de la aplicación 'Visor 360', donde ayude como tester de errores y organicé la NAS, además terminé siendo administrador de la aplicación y ayudaba a los usuarios con sus problemas de la misma"
+    }      
+}
