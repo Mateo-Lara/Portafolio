@@ -318,22 +318,22 @@ html{
     100%{width: 60%;}
 }
 
-.skills .skill .wordpress{
+.skills .skill .SQL{
     width: 0%;
     animation: 2s wordpress forwards;
 }
 @keyframes wordpress {
     0%{width: 0%;}
-    100%{width: 50%;}
+    100%{width: 60%;}
 }
 
-.skills .skill .drupal{
+.skills .skill .java{
     width: 0%;
-    animation: 2s drupal forwards;
+    animation: 2s java forwards;
 }
-@keyframes drupal {
+@keyframes java {
     0%{width: 0%;}
-    100%{width: 55%;}
+    100%{width: 70%;}
 }
 
 .skills .skill .comunicacion{
@@ -351,7 +351,7 @@ html{
 }
 @keyframes trabajo {
     0%{width: 0%;}
-    100%{width: 70%;}
+    100%{width: 90%;}
 }
 
 .skills .skill .creatividad{
@@ -360,7 +360,7 @@ html{
 }
 @keyframes creatividad {
     0%{width: 0%;}
-    100%{width: 99%;}
+    100%{width:98%;}
 }
 
 .skills .skill .dedicacion{
@@ -369,26 +369,16 @@ html{
 }
 @keyframes dedicacion {
     0%{width: 0%;}
-    100%{width: 65%;}
+    100%{width: 90%;}
 }
 
-.skills .skill .proyect{
+.skills .skill .liderazgo{
     width: 0%;
-    animation: 2s proyect forwards;
+    animation: 2s liderazgo forwards;
 }
-@keyframes proyect {
+@keyframes liderazgo {
     0%{width: 0%;}
-    100%{width: 94%;}
-}
-
-/* Ejemplo igual solo es copiar y pegar agregando la clase en java script */
-.skills .skill .supapito{
-    width: 0%;
-    animation: 2s proyect forwards;
-}
-@keyframes proyect {
-    0%{width: 0%;}
-    100%{width: 96%;}
+    100%{width: 80%;}
 }
 /* SECCION CURRICULUM */
 .curriculum{

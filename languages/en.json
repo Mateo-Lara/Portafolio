@@ -12,7 +12,7 @@
     },
     "Sobre mi":{
         "Sobre":"About me",
-        "Descripcion":"<span>I am Mateo Lara.</span> Software development tech, I consider myself a person who adapts to any situation easily, I can also be a good leader, looking for challenges to improve as a professional. I feel that to any company I arrive I will be able to give new and fresh ideas."
+        "Descripcion":"<span>I am Mateo Lara.</span> Software development Associate´s Degree, I consider myself a person who adapts to any situation easily, I can also be a good leader, looking for challenges to improve as a professional. I feel that to any company I arrive I will be able to give new and fresh ideas."
     },
     "Datos personales":{
         "Info": "Personal information",
@@ -34,12 +34,19 @@
     "Habilidades":{
         "Habilidad": "Skills",
         "Habilidad Tech":"Technical skills",
-        "Habilidad pro":"Profesional skills"
+        "Habilidad pro":"personal skills"
+    },
+    "Personal":{
+        "comu": "Comunication",
+        "equipo":"Team work",
+        "crea":"Creativity",
+        "dedica":"Dedication",
+        "lider":"Lidership"
     },
     "Curriculum":{
         "Curriculum":"resume",
         "Educacion":"Education",
-        "Experiencia":"Work expirience"
+        "Experiencia":"Work experience"
     },
     "Experiencia 1":{
         "Titulo":"Technical Assistance to Public Finance Management",

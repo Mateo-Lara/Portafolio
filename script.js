@@ -96,15 +96,13 @@ function efectoHabilidades() {
         habilidades[0].classList.add("javascript");
         habilidades[1].classList.add("htmlcss");
         habilidades[2].classList.add("python");
-        habilidades[3].classList.add("wordpress");
-        habilidades[4].classList.add("drupal");
+        habilidades[3].classList.add("SQL");
+        habilidades[4].classList.add("java");
         habilidades[5].classList.add("comunicacion");
         habilidades[6].classList.add("trabajo");
         habilidades[7].classList.add("creatividad");
         habilidades[8].classList.add("dedicacion");
-        habilidades[9].classList.add("proyect");
-        // Agregar la habilidad y el nombre de la clase en el CSS
-        habilidades[10].classList.add("supapito");
+        habilidades[9].classList.add("liderazgo");
     }
 }
 

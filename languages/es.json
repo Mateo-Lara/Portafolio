@@ -4,7 +4,7 @@
         "Sobre mi": "SOBRE MI",
         "Habilidades": "HABILIDADES",
         "Curriculum": "CURRICULUM",
-        "Portafolio":"PORTFOLIO"
+        "Portafolio":"PORTAFOLIO"
     },
     "Inicio":{
         "Inicio":"Inicio",
@@ -34,7 +34,14 @@
     "Habilidades":{
         "Habilidad": "Habilidades",
         "Habilidad Tech":"Habilidades técnicas",
-        "Habilidad pro":"Habilidades profesionales"
+        "Habilidad pro":"Habilidades personales"
+    },
+    "Personal":{
+        "comu": "Comunicación",
+        "equipo":"Trabajo en equipo",
+        "crea":"Creatividad",
+        "dedica":"Dedicación",
+        "lider":"Liderazgo"
     },
     "Curriculum":{
         "Curriculum":"Curriculum",
@@ -45,5 +52,8 @@
         "Titulo":"Asistencia Técnica a la Gestión de Hacienda Pública",
         "Tiempo": "6 meses",
         "Descripcion":"Fui practicante de la Alcaldía de Medellín, en la ayuda de la aplicación 'Visor 360', donde ayude como tester de errores y organicé la NAS, además terminé siendo administrador de la aplicación y ayudaba a los usuarios con sus problemas de la misma"
+    },
+    "Portafolio":{
+        "Super": "Supermercado"
     }      
 }
