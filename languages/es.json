@@ -46,7 +46,12 @@
     "Curriculum":{
         "Curriculum":"Curriculum",
         "Educacion":"Educación",
-        "Experiencia":"Experiencia de trabajo"
+        "Experiencia":"Experiencia de trabajo",
+        "Tec": "Tecnología en desarrollo de software",
+        "Ing": "Ingeniería de software y datos",
+        "Eng": "Inglés para jóvenes",
+        "TIC": "Misión TIC 2022",
+        "Pre": "Presente"
     },
     "Experiencia 1":{
         "Titulo":"Asistencia Técnica a la Gestión de Hacienda Pública",
@@ -54,6 +59,13 @@
         "Descripcion":"Fui practicante de la Alcaldía de Medellín, en la ayuda de la aplicación 'Visor 360', donde ayude como tester de errores y organicé la NAS, además terminé siendo administrador de la aplicación y ayudaba a los usuarios con sus problemas de la misma"
     },
     "Portafolio":{
-        "Super": "Supermercado"
+        "admin": "Administración",
+        "emplea": "Empresas y empleados",
+        "anima": "Animales",
+        "contro": "Control de animales de zoológico",
+        "proyec": "Primer proyecto HTML",
+        "mane":"Manejo de excepciones DAO",
+        "super":"Supermercado",
+        "hilo":"Hilos en Java"
     }      
 }

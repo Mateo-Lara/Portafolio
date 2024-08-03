@@ -46,11 +46,26 @@
     "Curriculum":{
         "Curriculum":"resume",
         "Educacion":"Education",
-        "Experiencia":"Work experience"
+        "Experiencia":"Work experience",
+        "Tec": "Software development Associate´s Degree",
+        "Ing": "Software and data engineering",
+        "Eng": "English for teenagers",
+        "TIC": "Mission TIC 2022",
+        "Pre": "Present"
     },
     "Experiencia 1":{
         "Titulo":"Technical Assistance to Public Finance Management",
         "Tiempo": "6 months",
         "Descripcion":"I was an intern at the Medellin Government, in the help of the application 'Visor 360', where I helped as a bug tester and organized the NAS, I also became an administrator of the application and helped users with their problems"
-    }
+    },
+    "Portafolio":{
+        "admin": "Administration",
+        "emplea": "Companies and employees",
+        "anima": "Animals",
+        "contro": "Animal´s zoo control",
+        "proyec": "First HTML project",
+        "mane":"DAO exception handling",
+        "super":"Supermarket",
+        "hilo":"Java Threads"
+    } 
 }
